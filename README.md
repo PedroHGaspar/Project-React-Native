@@ -11,3 +11,11 @@ So, that is it! An app that uses external APIs to fetch data and show it on the 
 ● Create customAPI data fetching hooks;<br />
 ● Write clean, organized, and maintainable code with proper architecture;<br />
 ● Follow the best practices for React Native development.<br />
+
+
+# How to start
+
+npm install<br />
+npm install -g expo-cli<br />
+npm install expo-font axios react-native-dotenv<br />
+expo-cli start --tunnel<br />

@@ -3,7 +3,12 @@ import { SafeAreaView, ScrollView, View } from "react-native";
 import { Stack, useRouter } from "expo-router";
 
 import { COLORS, icons, images, SIZES } from "../constants";
-import { Nearbyjobs, Popularjobs, ScreenHeaderBtn, Welcome } from "../components";
+import {
+    Nearbyjobs,
+    Popularjobs,
+    ScreenHeaderBtn,
+    Welcome,
+} from "../components";
 
 const Home = () => {
     const router = useRouter()
@@ -16,12 +21,12 @@ const Home = () => {
                     headerStyle: { backgroundColor: COLORS.lightWhite },
                     headerShadowVisible: false,
                     headerLeft: () => (
-                        <ScreenHeaderBtn iconUrl={icons.menu} dimension='60%' />//add a menu button(icon) in the superior left corner
+                        <ScreenHeaderBtn iconUrl={icons.menu} dimension='60%' />
                     ),
                     headerRight: () => (
-                        <ScreenHeaderBtn iconUrl={images.profile} dimension='100%' />//add the profile photo in the superior right corner
+                        <ScreenHeaderBtn iconUrl={images.profile} dimension='100%' />
                     ),
-                    headerTitle: "",//hides the index.js at the center
+                    headerTitle: "",
                 }}
             />
 

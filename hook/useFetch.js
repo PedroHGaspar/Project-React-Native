@@ -34,7 +34,17 @@ const useFetch = (endpoint, query) => {
     };
 
     useEffect(() => {
-        fetchData();
+        let timer = null;
+        const delay = 100000; // 100 seconds (api limit is 1 per secont, because it's free)
+
+        const fetchWithDelay = () => {
+            fetchData();
+            timer = setTimeout(fetchWithDelay, delay);
+        };
+
+        fetchWithDelay();
+
+        return () => clearTimeout(timer);
     }, []);
 
     const refetch = () => {

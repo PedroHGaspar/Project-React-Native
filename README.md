@@ -24,9 +24,10 @@ npm install expo-font axios react-native-dotenv<br />
 expo-cli start --tunnel<br />
 
 # Demo Pictures
-
-![pic1](https://user-images.githubusercontent.com/37162818/227597291-6654b4bd-9a07-4099-8c82-e7059d8f14c9.jpeg)
-![pic2](https://user-images.githubusercontent.com/37162818/227597328-12726fcd-7a3f-47d2-9dc5-e9584fe112ca.jpg)
-![pic3](https://user-images.githubusercontent.com/37162818/227597315-86856ef1-8703-4671-958e-d5c289f9ae5b.jpeg)
-![pic4](https://user-images.githubusercontent.com/37162818/227597319-2c0edb2b-6027-4136-a59b-2874a2ee758f.jpg)
-![pic5](https://user-images.githubusercontent.com/37162818/227597325-aecba0c6-de53-448d-855d-235e8d02211d.jpeg)
+<div display=grid>
+<img src="https://github.com/PedroHGaspar/Project-React-Native/blob/master/demoPictures/pic1.jpeg" width="200" height="400" />
+<img src="https://github.com/PedroHGaspar/Project-React-Native/blob/master/demoPictures/pic2.jpg" width="200" height="400" />
+<img src="https://github.com/PedroHGaspar/Project-React-Native/blob/master/demoPictures/pic3.jpeg" width="200" height="400" />
+<img src="https://github.com/PedroHGaspar/Project-React-Native/blob/master/demoPictures/pic4.jpg" width="200" height="400" />
+<img src="https://github.com/PedroHGaspar/Project-React-Native/blob/master/demoPictures/pic5.jpeg" width="200" height="400" />
+</div>

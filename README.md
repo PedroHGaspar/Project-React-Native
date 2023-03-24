@@ -22,3 +22,7 @@ npm install<br />
 npm install -g expo-cli<br />
 npm install expo-font axios react-native-dotenv<br />
 expo-cli start --tunnel<br />
+
+# Demo Pictures
+
+![alt text](https://github.com/[PedroHGaspar]/[Project-React-Native]/blob/[master]/pic1.jpeg?raw=true)

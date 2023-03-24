@@ -25,4 +25,4 @@ expo-cli start --tunnel<br />
 
 # Demo Pictures
 
-![alt text](https://github.com/[PedroHGaspar]/[Project-React-Native]/blob/[master]/pic1.jpeg?raw=true)
+![alt text](https://github.com/[PedroHGaspar]/[Project-React-Native]/blob/[branch]/pic1.jpeg?raw=true)

@@ -1,4 +1,4 @@
-# Project-React-Native
+#
 
 # Every day is a learning day.
 
@@ -30,8 +30,8 @@ expo-cli start --tunnel<br />
 ![alt text](./demoPictures/pic3.jpeg)
 ![alt text](./demoPictures/pic4.jpg)
 ![alt text](./demoPictures/pic5.jpeg) -->
-<img src= "../Project-React-Native/demoPictures/pic1.jpeg" width="200" height="280" alt= "pic1" title="pic1">
-<img src= "../Project-React-Native/demoPictures/pic2.jpg" width="200" height="280" alt= "pic1" title="pic1">
-<img src= "../Project-React-Native/demoPictures/pic3.jpeg" width="200" height="280" alt= "pic1" title="pic1">
-<img src= "../Project-React-Native/demoPictures/pic4.jpg" width="200" height="280" alt= "pic1" title="pic1">
-<img src= "../Project-React-Native/demoPictures/pic5.jpeg" width="200" height="280" alt= "pic1" title="pic1">
+<img src= "../demoPictures/pic1.jpeg" width="200" height="280" alt= "pic1" title="pic1">
+<img src= "../demoPictures/pic2.jpg" width="200" height="280" alt= "pic1" title="pic1">
+<img src= "../demoPictures/pic3.jpeg" width="200" height="280" alt= "pic1" title="pic1">
+<img src= "../demoPictures/pic4.jpg" width="200" height="280" alt= "pic1" title="pic1">
+<img src= "../demoPictures/pic5.jpeg" width="200" height="280" alt= "pic1" title="pic1">

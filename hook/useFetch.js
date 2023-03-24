@@ -10,7 +10,7 @@ const useFetch = (endpoint, query) => {
         method: "GET",
         url: `https://jsearch.p.rapidapi.com/${endpoint}`,
         headers: {
-            "X-RapidAPI-Key": "2461af710amsha07de7d052b72c8p1a08dcjsnffe4645de012",
+            "X-RapidAPI-Key": "2461af710amsha07de7d052b72c8p1a08dcjsnffe4645de012",//Please don't use this api key, it's free! Go to rapidAPI and search for JSearch. Then, take your own key.
             "X-RapidAPI-Host": "jsearch.p.rapidapi.com",
         },
         params: { ...query },

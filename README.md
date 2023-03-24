@@ -13,6 +13,9 @@ So, that is it! An app that uses external APIs to fetch data and show it on the 
 ● Follow the best practices for React Native development.<br />
 
 
+#### Unfortunately the API is free, and it has the rate limit for 1/second. For some reason, the API said i'm making more than 1 request per second, and i actually don't know why is that. I've done everything right and there is no fetch loop in my code... Well, the app is functional, and here are some printscreens of it! The parts that say "Something went wrong" is the parts that the API says that i'm making more than 1 request per second.
+
+
 # How to start
 
 npm install<br />
